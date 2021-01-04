@@ -1,0 +1,2 @@
+vuex博客 https://blog.csdn.net/weixin_45891146/article/details/112154732
+vuex中的模块，语法糖，同步异步修改state中的数据
